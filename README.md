@@ -1,6 +1,8 @@
 # 📊 Real-Time Crypto Price Tracker  
 *A React + Redux Toolkit application simulating live cryptocurrency price updates*
 
+## 🎥 Demo Video
+Click the thumbnail below to watch the demo:
 [![Crypto Tracker Demo](https://img.youtube.com/vi/ukwTpGbrhL8/maxresdefault.jpg)](https://youtu.be/ukwTpGbrhL8)
 
 ## 🛠️ Tech Stack  
