@@ -1,7 +1,7 @@
 # 📊 Real-Time Crypto Price Tracker  
 *A React + Redux Toolkit application simulating live cryptocurrency price updates*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ukwTpGbrhL8?si=02acHhauEH5nzoQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Crypto Tracker Demo](https://img.youtube.com/vi/ukwTpGbrhL8/maxresdefault.jpg)](https://youtu.be/ukwTpGbrhL8)
 
 ## 🛠️ Tech Stack  
 | Category       | Technologies                                                                 |
@@ -11,12 +11,8 @@
 | **Styling**    | CSS                                             |
 
 ## 🏗️ Architecture Overview
-```mermaid
-graph TD
-  A[UI Components] -->|useSelector| B(Redux Store)
-  C[Mock WebSocket Service] -->|dispatch| B
-  B -->|Props| A
-  D[User Interactions] -->|dispatch| B
+![deepseek_mermaid_20250424_5604a0](https://github.com/user-attachments/assets/e38061a7-bb8e-4319-9f55-2093256a3b6e)
+
 
 # 🚀 Setup Instructions
 
